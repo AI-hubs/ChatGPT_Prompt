@@ -73,18 +73,31 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 ## 微信体验交流群
 
-加入ChatGPT体验交流群，与AI技术领域的专家和爱好者一起探讨最前沿的信息！在这里，你可以体验到最先进的人工智能技术，与志同道合的人交流，共同提升你的知识水平。不管你是专业人士还是爱好者，都欢迎加入我们的群体！
+加入ChatGPT信息交流群，与AI技术领域的专家和爱好者一起探讨最前沿的信息！在这里，你可以体验到最先进的人工智能技术，与志同道合的人交流，共同提升你的知识水平。不管你是专业人士还是爱好者，都欢迎加入我们的群体！
 
-项目合作洽谈请联系微信`plexpt`（在微信里自行搜索并添加好友，请注明来意，如有关于仓库问题需讨论请参考下文入群讨论，不要加此微信）。
+点击链接进群 [ChatGPT信息交流群](https://work.weixin.qq.com/kfid/kfc8facb8bcf1ac7eb5)
 
-|                  直接加群                  |               如果前面的无法使用，加我拉你入群               |                          国内中文体验公众号                          |
-|:--------------------------------------:| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="./pic/qun.jpg" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/218671603-2f4015fe-51e6-4252-bdd3-51daca0e5d33.png" width="300"/> |  <img src="https://user-images.githubusercontent.com/15922823/218004565-bb632624-b376-4f01-8ce2-d7065107bf4a.png" width="300"/> |
+# ChatGPT AI中文指南-作者自己付费购买的版本
+## 讲清楚辩论主题的正反方论点
+
+Prompt的目标：瞬间获得洞察力，并对任何话题变得更加了解。提出一个有争议的话题，这个提示将研究辩论的双方，为每一方提出有效的论据，反驳反对的观点，并根据证据得出有说服力的结论。打开自己的新视角，对任何话题的双方有一个细微和多面的了解。
+
+英文版辩论Prompt:
+I want you to act as a debater. I will provide you with a topic related to current events and your task is to research both sides of the debate, present valid arguments for each side, refute opposing points of view, and draw persuasive conclusions based on evidence. Your goal is to help people come away from the discussion with increased knowledge and insight into the topic at hand. You will research and analyze valid arguments for each side and present them in a balanced and insightful manner.  
+The topic is: [Topic]
+Provide [No. of Arguments (per side)] arguments for each side
+
+中文版辩论Prompt：
+我希望你能扮演一个辩论者的角色。我将为你提供一个与时事有关的话题，你的任务是研究辩论的双方，为每一方提出有效的论据，反驳反对的观点，并根据证据得出有说服力的结论。你的目标是帮助人们从讨论中获得更多的知识和对当前话题的洞察力。你将研究和分析每一方的有效论据，并以平衡和有见地的方式提出。 
+题目是：[主题]。
+为每一方提供[论点数量（每方）]个论据
+
+<img src='https://cdn.jsdelivr.net/gh/H-huihui/naifei_club/img/202303071723472.png'></img>
 
 
 
 
-# ChatGPT AI中文指南
+# ChatGPT AI中文指南-整理的网上免费版本
 
 ## 写小说
 
